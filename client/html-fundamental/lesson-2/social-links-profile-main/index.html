@@ -2,9 +2,16 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- displays site properly based on user's device -->
 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
     <link
       rel="icon"
       type="image/png"
@@ -23,23 +30,68 @@
       .attribution a {
         color: hsl(228, 45%, 44%);
       }
+
+      /*Selecting an element by the element name*/
+      /*article {*/
+      /*  background-color: green;*/
+      /*}*/
+
+      /*To select an element by id we use #*/
+      /*#article {*/
+      /*  width: 200px;*/
+      /*}*/
+
+      /*The universal selector adds css rules to all elements*/
+      /** {*/
+      /*  outline: 1px solid red;*/
+      /*}*/
+
+      * {
+        padding: 0;
+        margin: 0;
+        /*box-sizing: border-box;*/
+      }
+      body {
+        background-color: hsl(0, 0%, 8%);
+        color: white;
+        font-family: Inter, sans-serif;
+        font-size: 14px;
+        width: 100%;
+      }
+      /*To select an element by class name we use dot as in .*/
+      .article {
+        background-color: hsl(0, 0%, 12%);
+        width: 30%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .address {
+        color: hsl(75, 94%, 57%);
+      }
+
+      .link {
+        background-color: hsl(0, 0%, 20%);
+        color: white;
+        text-decoration: none;
+      }
     </style>
   </head>
   <body>
-    <article>
+    <article class="article" id="article">
       <img src="" alt="Profile Picture" />
       <div>
         <h1>Jessica Randall London</h1>
-        <h2>United Kingdom</h2>
+        <h2 class="address">London, United Kingdom</h2>
       </div>
       <div>
-        <p>Front-end developer and avid reader.</p>
+        <p class="role">Front-end developer and avid reader.</p>
         <nav>
-          <a href="github.com">Github</a>
-          <a href="">Frontend Mentor</a>
-          <a href="">LinkedIn</a>
-          <a href="">Twitter</a>
-          <a href="">Instagram!</a>
+          <a class="link" href="github.com">Github</a>
+          <a class="link" href="">Frontend Mentor</a>
+          <a class="link" href="">LinkedIn</a>
+          <a class="link" href="">Twitter</a>
+          <a class="link" href="">Instagram!</a>
         </nav>
       </div>
     </article>
