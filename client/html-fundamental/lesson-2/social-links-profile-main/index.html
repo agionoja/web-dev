@@ -49,21 +49,42 @@
       * {
         padding: 0;
         margin: 0;
-        /*box-sizing: border-box;*/
+        box-sizing: border-box;
       }
+
       body {
         background-color: hsl(0, 0%, 8%);
         color: white;
         font-family: Inter, sans-serif;
         font-size: 14px;
+        font-weight: 400;
         width: 100%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 16px;
+        /*position: relative;*/
       }
       /*To select an element by class name we use dot as in .*/
       .article {
         background-color: hsl(0, 0%, 12%);
-        width: 30%;
-        margin-left: auto;
-        margin-right: auto;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        width: 25%;
+        padding: 32px 20px;
+        align-items: center;
+        text-align: center;
+        /*margin: auto;*/
+        /*inset: 0;*/
+        /*position: absolute;*/
+      }
+
+      .avatar {
+        border-radius: 50%;
       }
 
       .address {
@@ -75,18 +96,51 @@
         color: white;
         text-decoration: none;
       }
+
+      /*.profile h1 {*/
+      /*  margin-bottom: 8px;*/
+      /*}*/
+
+      .profile {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .socials-container {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+      }
+
+      .socials {
+        display: flex;
+        flex-direction: column;
+        gap: 11px;
+      }
+
+      .link {
+        padding: 10px;
+        border-radius: 8px;
+      }
     </style>
   </head>
   <body>
     <article class="article" id="article">
-      <img src="" alt="Profile Picture" />
-      <div>
-        <h1>Jessica Randall London</h1>
+      <img
+        height="80"
+        width="80"
+        class="avatar"
+        src="./assets/images/avatar-jessica.jpeg"
+        alt="Profile Picture"
+      />
+      <div class="profile">
+        <h1>Jessica Randall</h1>
         <h2 class="address">London, United Kingdom</h2>
       </div>
-      <div>
-        <p class="role">Front-end developer and avid reader.</p>
-        <nav>
+      <div class="socials-container">
+        <p class="role">"Front-end developer and avid reader."</p>
+        <nav class="socials">
           <a class="link" href="github.com">Github</a>
           <a class="link" href="">Frontend Mentor</a>
           <a class="link" href="">LinkedIn</a>
