@@ -5,9 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84a49d7d-4eaa-49d2-a51b-6b59c25cd7a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/README-template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/design/active-states.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/design/desktop-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/design/desktop-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/design/mobile-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/images/icon-music.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/images/illustration-hero.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/images/pattern-background-desktop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/images/pattern-background-mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/style-guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/README-template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/Outfit-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/young-serif/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/young-serif/YoungSerif-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/images/image-omelette.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/design/desktop-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/design/mobile-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/style-guide.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/html-fundamental/lesson-2/exercise/exercise-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-2/exercise/exercise-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/html-fundamental/lesson-2/social-links-profile-main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-2/social-links-profile-main/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +112,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/agionoja/code/web-dev-course&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/agionoja/code/web-dev-course/client/html-fundamental/lesson-3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -89,6 +125,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/html-fundamental/lesson-3" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -115,7 +152,10 @@
       <workItem from="1742653989088" duration="7851000" />
       <workItem from="1742751223720" duration="314000" />
       <workItem from="1742801237704" duration="15000" />
-      <workItem from="1742915177850" duration="5409000" />
+      <workItem from="1742915177850" duration="7196000" />
+      <workItem from="1743175533370" duration="5596000" />
+      <workItem from="1743212103821" duration="202000" />
+      <workItem from="1743258278784" duration="8343000" />
     </task>
     <servers />
   </component>
