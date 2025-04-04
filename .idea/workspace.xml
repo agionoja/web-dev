@@ -5,45 +5,102 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84a49d7d-4eaa-49d2-a51b-6b59c25cd7a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/README-template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/design/active-states.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/design/desktop-design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/design/desktop-preview.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/design/mobile-design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/images/icon-music.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/images/illustration-hero.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/images/pattern-background-desktop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/images/pattern-background-mobile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/order-summary-component/style-guide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/README-template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/Outfit-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/outfit/static/Outfit-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/young-serif/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/fonts/young-serif/YoungSerif-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/assets/images/image-omelette.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/design/desktop-design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/design/mobile-design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/preview.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-4/recipe-page/style-guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/Inter-Italic-VariableFont_opsz,wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/Inter-VariableFont_opsz,wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_18pt-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_24pt-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Inter/static/Inter_28pt-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/RedHatDisplay-Italic-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/RedHatDisplay-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Red_Hat_Display/static/RedHatDisplay-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/Rubik-Italic-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/Rubik-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/Inter,Red_Hat_Display,Rubik/Rubik/static/Rubik-SemiBoldItalic.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,27 +163,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/agionoja/code/web-dev-course/client/html-fundamental/lesson-3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;/home/agionoja/.nvm/versions/node/v22.12.0/bin/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/agionoja/.nvm/versions/node/v22.12.0/lib/node_modules/prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/agionoja/code/web-dev-course/client/html-fundamental/lesson-3/exercise/qr-code-component",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/home/agionoja/.nvm/versions/node/v22.12.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/home/agionoja/.nvm/versions/node/v22.12.0/lib/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise/qr-code-component" />
       <recent name="$PROJECT_DIR$/client/html-fundamental/lesson-3" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/html-fundamental/lesson-3/exercise" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -156,6 +217,8 @@
       <workItem from="1743175533370" duration="5596000" />
       <workItem from="1743212103821" duration="202000" />
       <workItem from="1743258278784" duration="8343000" />
+      <workItem from="1743274648403" duration="203000" />
+      <workItem from="1743777009517" duration="9315000" />
     </task>
     <servers />
   </component>
